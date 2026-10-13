@@ -1,1 +1,1 @@
-# nuprikol
+# nuprikols
